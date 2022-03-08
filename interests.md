@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Publications
+title: Interests
 permalink: /interests/
 ---
 
-1. A great publication.
-2. Another great publication.
+Here are some of Meekaela's Hobbies! She loves feedback so leave a comment below if you have any cool additions on where you think she should explore next!
