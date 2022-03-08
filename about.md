@@ -13,7 +13,8 @@ The project Meekaela was aiding the Kantorowski with included looking at the ind
 As well as having experience in the research lab, Meekaela is also an employee of the Chemistry and Biochemistry department. Upon the start of the academic year Meekaela has been aiding stockroom technicians in the General Chemistry Stockroom. Alongside other employees she helps prepare demos and experiments for the general chemistry professors and students. She also aides in maintaining an organized and updated stockroom for all chemical needs.
 
 ### More Information
-Outside of her interests in the chemical field, Meekaela has been a volunteer within her [local church](https://www.pacificchristian.net/). Recently she has been promoted to co-worship director taking on more responsibiities for the weekly worship services at the church. Along with assuming the managerial duties as a co-worship director, she plays the piano and sings for the worship team. Music and serving the church are her among her favorite things to do alongside learning about chemistry.
+Outside of her interests in the chemical field, Meekaela has been a volunteer within her [local church](https://www.pacificchristian.net/). Recently she has been promoted to co-worship director taking on more responsibiities for the weekly worship services at the church. <img src="{{site.baseurl}}/images/churchxmas2021.jpg" alt="Christmas picture" width="400" 
+style="float: left; margin-top: 0px; margin-left: 10px"/> Along with assuming the managerial duties as a co-worship director, she plays the piano and sings for the worship team. Music and serving the church are her among her favorite things to do alongside learning about chemistry.
 
 ### Contact me
 
