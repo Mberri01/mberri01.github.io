@@ -8,6 +8,9 @@ Upon graduating from Orcutt Academy High School in Santa Maria California, Meeka
 
 ![Kantorowski Group]({{ site.baseurl }}/images/kantorowskigroup.jpeg)
 
+<img src="{{site.baseurl}}/images/kantorowskigroup.jpeg" alt="Kantorowski Group" width="100" 
+style="float: left; margin-top: 0px; margin-right: 10px" /> 
+
 As well as having experience in the research lab, Meekaela is also an employee of the Chemistry and Biochemistry department. Upon the start of the academic year Meekaela has been aiding stockroom technicians in the General Chemistry Stockroom. Alongside other employees she helps prepare demos and experiments for the general chemistry professors and students. She also aides in maintaining an organized and updated stockroom for all chemical needs.
 
 ### More Information
